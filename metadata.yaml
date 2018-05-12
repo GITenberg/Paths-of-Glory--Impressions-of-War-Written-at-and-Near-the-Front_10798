@@ -1,5 +1,8 @@
 _repo: Paths-of-Glory--Impressions-of-War-Written-at-and-Near-the-Front_10798
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/559
     wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10798#Paths-of-Glory--Impressions-of-War-Written-at-and-Near-the-Front
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
